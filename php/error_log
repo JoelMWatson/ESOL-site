@@ -1,0 +1,12 @@
+[04-Nov-2015 13:48:37 America/Chicago] PHP Warning:  require(/../php/function.php): failed to open stream: No such file or directory in /home/oleksandr/public_html/w2_0/php/authorize.php on line 1
+[04-Nov-2015 13:48:37 America/Chicago] PHP Fatal error:  require(): Failed opening required '/../php/function.php' (include_path='.:/opt/php54/lib/php') in /home/oleksandr/public_html/w2_0/php/authorize.php on line 1
+[04-Nov-2015 13:49:32 America/Chicago] PHP Warning:  require(php/function.php): failed to open stream: No such file or directory in /home/oleksandr/public_html/w2_0/php/authorize.php on line 1
+[04-Nov-2015 13:49:32 America/Chicago] PHP Warning:  require(php/function.php): failed to open stream: No such file or directory in /home/oleksandr/public_html/w2_0/php/authorize.php on line 1
+[04-Nov-2015 13:49:32 America/Chicago] PHP Fatal error:  require(): Failed opening required 'php/function.php' (include_path='.:/opt/php54/lib/php') in /home/oleksandr/public_html/w2_0/php/authorize.php on line 1
+[04-Nov-2015 13:50:48 America/Chicago] PHP Warning:  require(/php/function.php): failed to open stream: No such file or directory in /home/oleksandr/public_html/w2_0/php/authorize.php on line 1
+[04-Nov-2015 13:50:48 America/Chicago] PHP Fatal error:  require(): Failed opening required '/php/function.php' (include_path='.:/opt/php54/lib/php') in /home/oleksandr/public_html/w2_0/php/authorize.php on line 1
+[11-Nov-2015 19:20:45 America/Chicago] PHP Warning:  mysql_connect(): Too many connections in /home/seagulls/public_html/php/db_config.php on line 7
+[09-Dec-2015 01:05:27 America/Chicago] PHP Warning:  require_once(blocks/header.php): failed to open stream: No such file or directory in /home/seagulls/public_html/php/send_email.php on line 3
+[09-Dec-2015 01:05:27 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'blocks/header.php' (include_path='.:/opt/php54/lib/php') in /home/seagulls/public_html/php/send_email.php on line 3
+[09-Dec-2015 01:06:07 America/Chicago] PHP Warning:  require_once(php/function.php): failed to open stream: No such file or directory in /home/seagulls/public_html/blocks/header.php on line 2
+[09-Dec-2015 01:06:07 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'php/function.php' (include_path='.:/opt/php54/lib/php') in /home/seagulls/public_html/blocks/header.php on line 2
