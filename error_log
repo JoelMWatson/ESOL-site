@@ -1,0 +1,2 @@
+[18-Nov-2015 10:47:34 America/Chicago] PHP Warning:  mysql_connect(): Access denied for user 'user'@'localhost' (using password: YES) in /home/oleksandr/public_html/w2_1/php/db_config.php on line 7
+[13-Dec-2015 02:09:17 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/seagulls/public_html/students.php on line 33
